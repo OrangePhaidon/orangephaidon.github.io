@@ -7,4 +7,4 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile.JPG "Profile Picture"){:.profile}
 
-Content Warning: I have no idea what I'm doing :)
+I'm a climber and photographer. 
